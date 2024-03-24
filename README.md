@@ -8,7 +8,7 @@ Project Details
 Project Name DBTeam
 Trailer Video (https://www.youtube.com/watch?v=_rAn5q33ojk)
 
-
+https://drive.google.com/file/d/1JEjVpvq8bpWx-7UMnKIgFf67SYQWDYrM/view?usp=sharing
 Project Description (250 words max):
 
 This project provides a safe space for Mindfulness and Emotional Regulation. Originally, it was conceived as a self-injury prevention tool. Indeed, self-harm urges are intense and fuelled by the surrounding environment. Providing a Virtual Environment allows the participant to escape the triggering space fully.
