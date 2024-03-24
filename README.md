@@ -1,12 +1,12 @@
 Requirements (delete this section after)
 
-Create a public repository with your team name and number (TEAM_NAME_NUMBER)
+Create a public repository with your team name and number (DB Team)
 Create a README with the same information as this one
 Upload your build file to your repository
 Add the repository link to your project submission form
 Project Details 
 Project Name DBTeam
-Trailer Video (1 minute max, public youtube link)
+Trailer Video (https://www.youtube.com/watch?v=_rAn5q33ojk)
 
 
 Project Description (250 words max):
